@@ -1,0 +1,12 @@
+{
+  "name": "Seed for browser extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Porter(UnhingedPotter@gmail.com)",
+  "license": "MIT",
+  "dependencies": {}
+}
